@@ -109,10 +109,9 @@ body{
 }
 
 .footer{
-    max-width: 1250px;
     margin: 0 auto;
     background-color: #20003C;
-    padding: 67px 68px;
+    padding: 67px 0 68px;
 }
 
 .footer_ul{
